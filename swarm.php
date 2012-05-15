@@ -4,7 +4,7 @@
 	Plugin Name: ViewMedica Embed
 	Plugin URI: http://swarminteractive.com/
 	Description: Allows easy embed of ViewMedica 6 into WordPress Posts and Pages.
-	Version: 0.1
+	Version: 0.2
 	Author: Seth Wright & Anthony Lobianco
 	Author URI: http://swarminteractive.com/
 	
