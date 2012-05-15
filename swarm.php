@@ -170,7 +170,7 @@ function register_viewmedica_button($buttons) {
  
 // Load the TinyMCE plugin : editor_plugin.js (wp2.5)
 function add_viewmedica_tinymce_plugin($plugin_array) {
-   $plugin_array['viewmedica'] = plugins_url() .'/swarm_plugin.js';
+   $plugin_array['viewmedica'] = plugins_url() .'/viewmedica/swarm_plugin.js';
    return $plugin_array;
 }
  
