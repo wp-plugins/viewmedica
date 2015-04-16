@@ -5,12 +5,12 @@
     Plugin URI: http://viewmedica.com/
     Description: Allows easy embed of ViewMedica 7 into WordPress Posts and Pages. A full description, info and pull requests can be found at https://github.com/asethwright/viewmedica-wordpress
     Version: 1.2.5
-    Author: Seth Wright & Anthony Lobianco
+    Author: Swarm Interactive, Inc.
     Author URI: http://swarminteractive.com/
 
-    Copyright 2011  ANTHONY_LOBIANCO SETH_WRIGHT
+    Copyright 2011  SWARM_INTERACTIVE
 
-    (email : anthony@swarminteractive.com, seth@swarminteractive.com)
+    (email : support@swarminteractive.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as
